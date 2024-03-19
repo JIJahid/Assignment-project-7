@@ -3,7 +3,7 @@
 [
     {
         "recipe_id": 1,
-        "recipe_img":"./1.jpg",
+        "recipe_img":"./img/1.jpg",
         "recipe_name": "Grilled Chicken Teriyaki",
         "short_description": "A savory, slightly sweet grilled chicken dish with a hint of ginger and garlic.",
         "ingredients": [
@@ -19,7 +19,7 @@
     },
     {
         "recipe_id": 2,
-        "recipe_img":"./2.jpg",
+        "recipe_img":"./img/2.jpg",
         "recipe_name": "Classic Margherita Pizza",
         "short_description": "A simple yet flavorful pizza with fresh basil, mozzarella, and tomatoes.",
         "ingredients": [
@@ -35,7 +35,7 @@
     },
     {
         "recipe_id": 3,
-        "recipe_img":"./3.jpg",
+        "recipe_img":"./img/3.jpg",
         "recipe_name": "Vegetable Stir Fry",
         "short_description": "A colorful mix of vegetables stir-fried with soy sauce and sesame oil.",
         "ingredients": [
@@ -51,7 +51,7 @@
     },
     {
         "recipe_id": 4,
-        "recipe_img":"./4.jpg",
+        "recipe_img":"./img/4.jpg",
         "recipe_name": "Spaghetti Carbonara",
         "short_description": "A creamy pasta dish with eggs, cheese, pancetta, and pepper.",
         "ingredients": [
@@ -66,7 +66,7 @@
     },
     {
         "recipe_id": 5,
-        "recipe_img":"./5.jpg",
+        "recipe_img":"./img/5.jpg",
         "recipe_name": "Beef Stew",
         "short_description": "A hearty stew with tender beef, potatoes, and carrots, simmered in a rich sauce.",
         "ingredients": [
@@ -82,7 +82,7 @@
     },
     {
         "recipe_id": 6,
-        "recipe_img":"./6.jpg",
+        "recipe_img":"./img/6.jpg",
         "recipe_name": "Chocolate Chip Cookies",
         "short_description": "Classic, chewy chocolate chip cookies with a golden edge and soft center.",
         "ingredients": [
